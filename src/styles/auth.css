@@ -1,0 +1,16 @@
+.login-container,
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 0 5rem;
+}
+
+.login-form,
+.register-form {
+  min-width: 380px;
+  border-radius: 10px;
+  border: 2px solid #ddd;
+  padding: 1.5rem;
+}
